@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "Build with G++",
+			"label": "Build with G++ (Windows)",
 			"command": "C:\\mingw64\\bin\\g++.exe",
 			"args": [
 				"-g",
